@@ -4,5 +4,5 @@ terraform/terraform.tfstate*
 terraform/terraform.tfvar*
 .secret*
 .secret
-.master*
+.host*
 .terraform*
