@@ -2,5 +2,7 @@ terraform/.terraform*
 terraform/panos-creds.json
 terraform/terraform.tfstate*
 terraform/terraform.tfvar*
-.pantoken*
+.secret*
+.secret
+.master*
 .terraform*
